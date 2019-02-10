@@ -1,6 +1,6 @@
 # Oakland LiDAR point cloud data
 
-![LiDar](https://imgur.com/mWt77z8)
+![LiDar](https://i.imgur.com/mWt77z8.jpg)
 
 The original source of this data is [here](http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/).
 
