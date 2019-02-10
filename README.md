@@ -2,8 +2,6 @@
 
 ![LiDar](http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/snapshot_part2.png)
 
-CSVs of the data from [this site](http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/).
-
 The original source of this data is [here](http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/).
 
 The data was used in the paper below:
