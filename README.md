@@ -4,6 +4,8 @@
 
 The original source of this data is [here](http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/).
 
+Image generated using [slayer.py](https://github.com/ajduberstein/slayer).
+
 The data was used in the paper below:
 
 Contextual Classification with Functional Max-Margin Markov Networks. 
