@@ -1,4 +1,6 @@
-# Example LiDAR point cloud data
+# Oakland LiDAR point cloud data
+
+![LiDar](http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/snapshot_part2.png)
 
 CSVs of the data from http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/
 
