@@ -1,4 +1,4 @@
-# Free LiDAR point cloud data
+# Example LiDAR point cloud data
 
 CSVs of the data from http://www.cs.cmu.edu/~vmr/datasets/oakland_3d/cvpr09/doc/
 
